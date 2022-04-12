@@ -13,7 +13,7 @@ const App = () => {
   }
  
   const upload = () => {
-    const uploadURL = 'https://api.cloudinary.com/v1_1/wromo-studio/image/upload/v1647147204/samples/';
+    const uploadURL = 'https://api.cloudinary.com/v1_1/wromo-studio/image/upload/v1647147204/';
     const uploadPreset = 'ml_140284_wromox';
  
     files.forEach(file => {
