@@ -1,5 +1,11 @@
 # Getting Started with Create Marketing
 
+
+[![Gitter](https://badges.gitter.im/wromomarket/privat_marketing.svg)](https://gitter.im/wromomarket/privat_marketing?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+### `LINK PRIVAT ROOM`
+[Create Privat Room](https://gitter.im/wromomarket/privat_marketing?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 This project marketing with [Create Contents & Ads](https://wromo.at/).
 
 ## Available Scripts
