@@ -27,7 +27,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://....) for more information.
+See the section about [deployment](https://wordpress.org) for more information.
 
 ### `npm run eject`
 
@@ -39,17 +39,17 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://....).
+You can learn more in the [Website App documentation](https://wromo.at).
 
-To learn React, check out the [React documentation](https://..../).
+To learn React, check out the [ documentation](https://..../).
 
 ### Code Splitting
 
-This section has moved here: [https://](https://)
+This section has moved here: [wromo.at] (ttps://wromo.at)
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://analytic.com](https://analitic.com)
+This section has moved here: [https://analytics.google.com/analytics](https://analytics.google.com/analytics)
 
 ### Making a Progressive Web App
 
