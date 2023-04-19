@@ -6,7 +6,7 @@
 ### `LINK Foto & Logo website Next Time`
 [Create Privat Room](https://gitter.im/wromomarket/privat_marketing?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-This project marketing with [Create Contents & image](https://github.com/Ersin84).
+This project marketing with [Create Contents & image](https://github.com/Ghepes).
 
 ## Available Scripts
 
